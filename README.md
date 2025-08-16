@@ -1,2 +1,2 @@
 # YouFeelWeFeel
-How We Feel but cross platform, and built around slack. Uses a custom built express API that can be used anywhere to log feelings, add friends, and get feelings for yourself and your friends 
+How We Feel but cross platform. Uses a custom built express API that can be used anywhere to log feelings, add friends, and get feelings for yourself and your friends 
